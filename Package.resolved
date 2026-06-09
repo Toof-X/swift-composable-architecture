@@ -1,5 +1,5 @@
 {
-  "originHash" : "cdf009b7134aa63351df1103b1952fd57ee265ea5843d3d40e9ff20ff9b918d9",
+  "originHash" : "69eb551a1ef70d59c34002bea542b94a974e0033856931bd9e4926f2cabd194d",
   "pins" : [
     {
       "identity" : "combine-schedulers",
@@ -121,10 +121,10 @@
     {
       "identity" : "swift-sharing",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-sharing",
+      "location" : "https://github.com/Toof-X/swift-sharing",
       "state" : {
-        "revision" : "c525e53936c878c102421eee241d82711eb38104",
-        "version" : "2.8.1"
+        "branch" : "main",
+        "revision" : "c525e53936c878c102421eee241d82711eb38104"
       }
     },
     {
@@ -141,8 +141,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftlang/swift-syntax",
       "state" : {
-        "revision" : "79e4b74a295b6eb74a8b585e3a39d29e70c1dbd1",
-        "version" : "603.0.2"
+        "revision" : "4799286537280063c85a32f09884cfbca301b1a1",
+        "version" : "602.0.0"
       }
     },
     {
